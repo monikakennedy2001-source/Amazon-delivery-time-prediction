@@ -86,13 +86,7 @@ Efficient delivery is critical for customer satisfaction in e-commerce. This pro
 
 ---
 
-## Evaluation Metrics
-- **Data Quality**: Completeness and correctness of dataset  
-- **Model Performance**: RMSE, MAE, R² scores  
-- **Application Usability**: Ease of input and result interpretation  
-- **Model Tracking**: MLflow logging and comparison of models  
 
----
 
 ## Technology Stack
 - **Languages & Libraries**: Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn, Plotly  
