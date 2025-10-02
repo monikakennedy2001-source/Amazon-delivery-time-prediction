@@ -100,5 +100,3 @@ Efficient delivery is critical for customer satisfaction in e-commerce. This pro
 - **Model Tracking**: MLflow  
 
 ---
-
-## Folder Structure
